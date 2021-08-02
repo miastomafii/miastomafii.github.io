@@ -1,6 +1,6 @@
 {
-	"short_name": "Silver Nabla",
-	"name": "Silver Nabla PWA Eample",
+	"short_name": "Miasto Mafii",
+	"name": "Miasto Mafii",
 	"icons": [
 		{
 			"src": "icon-32.png",
@@ -41,6 +41,6 @@
 	],
 	"start_url": ".",
 	"display": "standalone",
-	"theme_color": "#e50914",
-	"background_color": "#221f1f"
+	"theme_color": "#000000",
+	"background_color": "#000000"
 }
